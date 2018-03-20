@@ -1,0 +1,22 @@
+{
+  "name": "oyreli-word-maker",
+  "version": "0.0.1",
+  "description": "This package will generate meaningful words with given characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrad77/OYRELI-Word-Maker.git"
+  },
+  "author": "Mehrad Rousta <mehrad77@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehrad77/OYRELI-Word-Maker/issues"
+  },
+  "homepage": "https://github.com/mehrad77/OYRELI-Word-Maker#readme",
+  "dependencies": {
+    "check-word": "^1.1.0"
+  }
+}
